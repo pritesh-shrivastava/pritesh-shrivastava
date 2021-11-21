@@ -13,6 +13,5 @@ I enjoy exploring state-of-the-art techniques to solve data science problems on 
 You can check out my reading list & reviews on [Goodreads](https://www.goodreads.com/user/show/23475269-pritesh-shrivastava). I've also added a few whistling tunes on [Soundcloud](https://soundcloud.com/pritesh-shrivastava).
 
 <p> If you want to to connect with me, you can reach out on my 
-	<a href="https://www.linkedin.com/in/pritesh-shrivastava/">LinkedIn</a> & 
-	<a href="https://twitter.com/pritesh_shri">Twitter</a> accounts.
+	<a href="https://www.linkedin.com/in/pritesh-shrivastava/">LinkedIn</a> account.
 </p>
