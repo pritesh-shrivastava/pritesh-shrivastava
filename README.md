@@ -4,7 +4,7 @@
 **pritesh-shrivastava/pritesh-shrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm an experienced data scientist (~5 yrs) passionate about using machine learning and deep learning for real-world delivery and impact. 
+I'm an experienced data scientist (~8 yrs) passionate about using machine learning and deep learning for real-world delivery and impact. 
 
 I enjoy exploring state-of-the-art techniques to solve data science problems on competitive platforms like [Kaggle](https://www.kaggle.com/priteshshrivastava). I also maintain a technical blog [here](https://pritesh-shrivastava.github.io/).
 
